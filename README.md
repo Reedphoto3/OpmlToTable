@@ -1,4 +1,4 @@
-# OpmlToSheet
+# OpmlToTable
 
 - V1.0 2025-01-17
 
