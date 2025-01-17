@@ -39,7 +39,4 @@ assets/.DS_Store
 .vscode/
 .idea/
 
-# 取消忽略的文件和文件夹
-!*.md
-!*.py
-!*.opml
+/assets/

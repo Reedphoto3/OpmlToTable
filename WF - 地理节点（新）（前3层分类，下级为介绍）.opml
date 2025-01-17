@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <ownerEmail>
+      reed
+    </ownerEmail>
+  </head>
+  <body>
+    <outline text="地理节点（前3层分类，下级为介绍）">
+      <outline text="亚洲">
+        <outline text="中国">
+          <outline text="北京">
+            <outline text="大小: 面积约16,410平方公里" />
+            <outline text="人口: 约2,200万人" />
+            <outline text="名胜: 故宫、天安门、长城" />
+            <outline text="食物: 北京烤鸭、炸酱面" />
+            <outline text="气候:">
+              <outline text="晴天数目: 每年约200天">
+                <outline text="晴天时候比较干燥" />
+                <outline text="建议多吃水果" />
+              </outline>
+              <outline text="预计: 冬季寒冷干燥，夏季炎热多雨" />
+              <outline text="台风: 无台风影响" />
+            </outline>
+          </outline>
+          <outline text="上海">
+            <outline text="大小: 面积约6,340平方公里" />
+            <outline text="人口: 约2,500万人" />
+            <outline text="名胜: 外滩、东方明珠塔、豫园" />
+            <outline text="食物: 小笼包、生煎包" />
+            <outline text="气候:">
+              <outline text="晴天数目: 每年约180天" />
+              <outline text="预计: 夏季湿热，冬季湿冷" />
+              <outline text="台风: 每年约1-2次台风影响" />
+            </outline>
+          </outline>
+          <outline text="广州">
+            <outline text="大小: 面积约7,434平方公里" />
+            <outline text="人口: 约1,800万人" />
+            <outline text="名胜: 广州塔、越秀公园、陈家祠" />
+            <outline text="食物: 粤菜、肠粉、早茶" />
+            <outline text="气候:">
+              <outline text="晴天数目: 每年约150天" />
+              <outline text="预计: 夏季炎热多雨，冬季温暖" />
+              <outline text="台风: 每年约2-3次台风影响" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="印度">
+          <outline text="新德里">
+            <outline text="大小: 面积约1,484平方公里" />
+            <outline text="人口: 约3,000万人" />
+            <outline text="名胜: 印度门、红堡、莲花庙" />
+            <outline text="食物: 咖喱、烤饼、黄油鸡" />
+            <outline text="气候:">
+              <outline text="晴天数目: 每年约250天" />
+              <outline text="预计: 夏季炎热干燥，冬季温暖" />
+              <outline text="台风: 无台风影响" />
+            </outline>
+          </outline>
+          <outline text="孟买">
+            <outline text="大小: 面积约603平方公里" />
+            <outline text="人口: 约2,000万人" />
+            <outline text="名胜: 印度门、象岛石窟、海滨大道" />
+            <outline text="食物: 海鲜、街头小吃" />
+            <outline text="气候:">
+              <outline text="晴天数目: 每年约200天" />
+              <outline text="预计: 夏季湿热，冬季温暖" />
+              <outline text="台风: 每年约1次台风影响" />
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="欧洲">
+        <outline text="英国">
+          <outline text="伦敦">
+            <outline text="大小: 面积约1,572平方公里" />
+            <outline text="人口: 约900万人" />
+            <outline text="名胜: 大本钟、伦敦塔桥、白金汉宫" />
+            <outline text="食物: 炸鱼薯条、英式早餐" />
+            <outline text="气候:">
+              <outline text="晴天数目: 每年约100天" />
+              <outline text="预计: 多雨，冬季寒冷，夏季温和" />
+              <outline text="台风: 无台风影响" />
+            </outline>
+          </outline>
+          <outline text="曼彻斯特">
+            <outline text="大小: 面积约115平方公里" />
+            <outline text="人口: 约55万人" />
+            <outline text="名胜: 曼联主场、科学工业博物馆" />
+            <outline text="食物: 英式派、炸鱼" />
+            <outline text="气候:">
+              <outline text="晴天数目: 每年约120天" />
+              <outline text="预计: 多雨，冬季寒冷，夏季温和" />
+              <outline text="台风: 无台风影响" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="法国">
+          <outline text="巴黎">
+            <outline text="大小: 面积约105平方公里" />
+            <outline text="人口: 约220万人" />
+            <outline text="名胜: 埃菲尔铁塔、卢浮宫、巴黎圣母院" />
+            <outline text="食物: 法式长棍、可丽饼、鹅肝" />
+            <outline text="气候:">
+              <outline text="晴天数目: 每年约170天" />
+              <outline text="预计: 冬季寒冷，夏季温暖" />
+              <outline text="台风: 无台风影响" />
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="北美洲">
+        <outline text="美国">
+          <outline text="纽约">
+            <outline text="大小: 面积约783平方公里" />
+            <outline text="人口: 约850万人" />
+            <outline text="名胜: 自由女神像、中央公园、帝国大厦" />
+            <outline text="食物: 热狗、披萨、纽约芝士蛋糕" />
+            <outline text="气候:">
+              <outline text="晴天数目: 每年约220天" />
+              <outline text="预计: 冬季寒冷，夏季炎热" />
+              <outline text="台风: 无台风影响" />
+            </outline>
+          </outline>
+          <outline text="洛杉矶">
+            <outline text="大小: 面积约1,302平方公里" />
+            <outline text="人口: 约400万人" />
+            <outline text="名胜: 好莱坞、圣莫尼卡海滩" />
+            <outline text="食物: 墨西哥卷饼、汉堡" />
+            <outline text="气候:">
+              <outline text="晴天数目: 每年约280天" />
+              <outline text="预计: 温暖干燥" />
+              <outline text="台风: 无台风影响" />
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="大洋洲">
+        <outline text="澳大利亚">
+          <outline text="悉尼">
+            <outline text="大小: 面积约12,367平方公里" />
+            <outline text="人口: 约500万人" />
+            <outline text="名胜: 悉尼歌剧院、悉尼海港大桥" />
+            <outline text="食物: 澳式烧烤、肉馅饼" />
+            <outline text="气候:">
+              <outline text="晴天数目: 每年约240天" />
+              <outline text="预计: 夏季炎热，冬季温和" />
+              <outline text="台风: 无台风影响" />
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

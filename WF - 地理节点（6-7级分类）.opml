@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <ownerEmail>
+      reed
+    </ownerEmail>
+  </head>
+  <body>
+    <outline text="地理节点">
+      <outline text="亚洲">
+        <outline text="&lt;b&gt;中国&lt;/b&gt;">
+          <outline text="北京">
+            <outline text="朝阳区">
+              <outline text="中国尊" />
+              <outline text="北京国贸大厦" />
+            </outline>
+            <outline text="海淀区">
+              <outline text="清华大学主楼" />
+              <outline text="中关村大厦" />
+            </outline>
+            <outline text="东城区">
+              <outline text="故宫" />
+              <outline text="天安门" />
+            </outline>
+          </outline>
+          <outline text="上海">
+            <outline text="浦东新区">
+              <outline text="上海中心大厦" />
+              <outline text="东方明珠塔" />
+            </outline>
+            <outline text="徐汇区">
+              <outline text="上海交通大学" />
+              <outline text="龙华寺" />
+            </outline>
+            <outline text="黄浦区">
+              <outline text="外滩" />
+              <outline text="南京路步行街" />
+            </outline>
+          </outline>
+          <outline text="广东">
+            <outline text="广州">
+              <outline text="越秀区">
+                <outline text="中山纪念堂" />
+                <outline text="越秀山体育场" />
+              </outline>
+              <outline text="天河区">
+                <outline text="广州塔" />
+                <outline text="天环广场" />
+              </outline>
+            </outline>
+            <outline text="深圳">
+              <outline text="福田区">
+                <outline text="平安金融中心" />
+                <outline text="深圳会展中心" />
+              </outline>
+              <outline text="南山区">
+                <outline text="华润大厦" />
+                <outline text="深圳大学" />
+              </outline>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="日本">
+          <outline text="东京">
+            <outline text="新宿区">
+              <outline text="东京都厅" />
+              <outline text="新宿御苑" />
+            </outline>
+            <outline text="涩谷区">
+              <outline text="涩谷109" />
+              <outline text="涩谷天空" />
+            </outline>
+          </outline>
+          <outline text="京都">
+            <outline text="中京区">
+              <outline text="二条城" />
+              <outline text="京都国际会馆" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="韩国">
+          <outline text="首尔">
+            <outline text="江南区">
+              <outline text="COEX大厦" />
+              <outline text="乐天世界塔" />
+            </outline>
+            <outline text="中区">
+              <outline text="南山塔" />
+              <outline text="明洞圣堂" />
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="欧洲">
+        <outline text="&lt;b&gt;英国&lt;/b&gt;">
+          <outline text="英格兰">
+            <outline text="伦敦">
+              <outline text="西敏市">
+                <outline text="大本钟" />
+                <outline text="白金汉宫" />
+              </outline>
+              <outline text="肯辛顿">
+                <outline text="自然历史博物馆" />
+                <outline text="皇家阿尔伯特音乐厅" />
+              </outline>
+            </outline>
+            <outline text="曼彻斯特">
+              <outline text="曼联主场老特拉福德球场" />
+              <outline text="曼彻斯特市政厅" />
+            </outline>
+          </outline>
+          <outline text="苏格兰">
+            <outline text="爱丁堡">
+              <outline text="爱丁堡城堡" />
+              <outline text="苏格兰议会大厦" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;法国&lt;/b&gt;">
+          <outline text="巴黎">
+            <outline text="第一区">
+              <outline text="卢浮宫" />
+              <outline text="巴黎圣母院" />
+            </outline>
+            <outline text="第七区">
+              <outline text="埃菲尔铁塔" />
+              <outline text="荣军院" />
+            </outline>
+          </outline>
+          <outline text="马赛">
+            <outline text="马赛旧港" />
+            <outline text="圣母加德大教堂" />
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;德国&lt;/b&gt;">
+          <outline text="柏林">
+            <outline text="勃兰登堡门" />
+            <outline text="柏林电视塔" />
+          </outline>
+          <outline text="慕尼黑">
+            <outline text="玛利亚广场" />
+            <outline text="安联球场" />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="北美洲">
+        <outline text="&lt;b&gt;美国&lt;/b&gt;">
+          <outline text="加利福尼亚州">
+            <outline text="洛杉矶">
+              <outline text="好莱坞星光大道" />
+              <outline text="洛杉矶市政厅" />
+            </outline>
+            <outline text="旧金山">
+              <outline text="金门大桥" />
+              <outline text="旧金山艺术宫" />
+            </outline>
+          </outline>
+          <outline text="纽约州">
+            <outline text="纽约市">
+              <outline text="曼哈顿">
+                <outline text="帝国大厦" />
+                <outline text="自由女神像" />
+              </outline>
+              <outline text="布鲁克林">
+                <outline text="布鲁克林大桥" />
+                <outline text="布鲁克林博物馆" />
+              </outline>
+            </outline>
+          </outline>
+          <outline text="德克萨斯州">
+            <outline text="休斯顿">
+              <outline text="太空中心" />
+              <outline text="休斯顿自然科学博物馆" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;加拿大&lt;/b&gt;">
+          <outline text="安大略省">
+            <outline text="多伦多">
+              <outline text="CN塔" />
+              <outline text="皇家安大略博物馆" />
+            </outline>
+            <outline text="渥太华">
+              <outline text="加拿大国会大厦" />
+              <outline text="里多运河" />
+            </outline>
+          </outline>
+          <outline text="魁北克省">
+            <outline text="魁北克市">
+              <outline text="魁北克城堡" />
+              <outline text="圣母圣殿大教堂" />
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="南美洲">
+        <outline text="&lt;b&gt;巴西&lt;/b&gt;">
+          <outline text="圣保罗">
+            <outline text="圣保罗大教堂" />
+            <outline text="伊比拉普埃拉公园" />
+          </outline>
+          <outline text="里约热内卢">
+            <outline text="基督像" />
+            <outline text="马拉卡纳体育场" />
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;阿根廷&lt;/b&gt;">
+          <outline text="布宜诺斯艾利斯">
+            <outline text="方尖碑" />
+            <outline text="科隆剧院" />
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;智利&lt;/b&gt;">
+          <outline text="圣地亚哥">
+            <outline text="圣克里斯托瓦尔山" />
+            <outline text="智利国家美术馆" />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="非洲">
+        <outline text="&lt;b&gt;南非&lt;/b&gt;">
+          <outline text="开普敦">
+            <outline text="桌山" />
+            <outline text="维多利亚港" />
+          </outline>
+          <outline text="约翰内斯堡">
+            <outline text="宪法山" />
+            <outline text="卡尔顿中心" />
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;埃及&lt;/b&gt;">
+          <outline text="开罗">
+            <outline text="吉萨金字塔" />
+            <outline text="埃及博物馆" />
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;肯尼亚&lt;/b&gt;">
+          <outline text="内罗毕">
+            <outline text="内罗毕国家公园" />
+            <outline text="肯雅塔国际会议中心" />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="大洋洲">
+        <outline text="&lt;b&gt;澳大利亚&lt;/b&gt;">
+          <outline text="新南威尔士州">
+            <outline text="悉尼">
+              <outline text="悉尼歌剧院" />
+              <outline text="悉尼海港大桥" />
+            </outline>
+          </outline>
+          <outline text="维多利亚州">
+            <outline text="墨尔本">
+              <outline text="弗林德斯街车站" />
+              <outline text="墨尔本皇家植物园" />
+            </outline>
+          </outline>
+          <outline text="昆士兰州">
+            <outline text="布里斯班">
+              <outline text="故事桥" />
+              <outline text="昆士兰美术馆" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;新西兰&lt;/b&gt;">
+          <outline text="奥克兰">
+            <outline text="天空塔" />
+            <outline text="奥克兰博物馆" />
+          </outline>
+          <outline text="惠灵顿">
+            <outline text="新西兰国家博物馆" />
+            <outline text="惠灵顿植物园" />
+          </outline>
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>
