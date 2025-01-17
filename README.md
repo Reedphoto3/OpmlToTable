@@ -14,7 +14,7 @@
 
 将分类层级数量(category_levels)设置为事物所在层级即可。
 
-![PixPin_2025-01-15_19-07-16](assets/PixPin_2025-01-15_19-07-16.png)
+![image1](image1.png)
 
 ### 结构2
 
@@ -22,7 +22,7 @@
 
 将分类层级数量(category_levels)设置为大纲的最深层级即可。
 
-![PixPin_2025-01-10_11-33-16](assets/PixPin_2025-01-10_11-33-16.png)
+![image2](image2.png)
 
 
 
